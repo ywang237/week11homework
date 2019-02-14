@@ -1,0 +1,8 @@
+
+body {background-color:lightgray;}
+.navigation {background-color: white}
+.summary {background-color:white;
+          padding: 5px;
+}
+.summary h1 {font-size: 30}
+}
